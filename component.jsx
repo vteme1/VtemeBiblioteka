@@ -4582,7 +4582,7 @@ const LiquidGlassLibrary = () => {
                 </div>
                 <div className="text-left">
                   <div className="text-lg font-bold">📚 Добавить книгу</div>
-                  <div className="text-sm opacity-90">EPUB, FB2, TXT, PDF</div>
+                  <div className="text-sm opacity-90">FB2, TXT</div>
                 </div>
               </div>
             </button>
